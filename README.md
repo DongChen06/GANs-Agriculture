@@ -46,3 +46,19 @@ Please consider cite our paper if you find this repo is helpful.
 # GAN Achitectures
 
 # GAN Review Papers
+**2022**
+- Cohen, Gilad, and Raja Giryes. "Generative Adversarial Networks." arXiv preprint arXiv:2203.00667 (2022).
+
+**2021**
+- Pavan Kumar, M. R., and Prabhu Jayagopal. "Generative adversarial networks: a survey on applications and challenges." International Journal of Multimedia Information Retrieval 10.1 (2021): 1-24.
+- Gui, Jie, et al. "A review on generative adversarial networks: Algorithms, theory, and applications." IEEE Transactions on Knowledge and Data Engineering (2021).
+- Wang, Zhengwei, Qi She, and Tomas E. Ward. "Generative adversarial networks in computer vision: A survey and taxonomy." ACM Computing Surveys (CSUR) 54.2 (2021): 1-38.
+
+**2019**
+- Yi, Xin, Ekta Walia, and Paul Babyn. "Generative adversarial network in medical imaging: A review." Medical image analysis 58 (2019): 101552.
+- Zamorski, Maciej, et al. "Generative adversarial networks: recent developments." International Conference on Artificial Intelligence and Soft Computing. Springer, Cham, 2019.
+- Hong, Yongjun, et al. "How generative adversarial networks and their variants work: An overview." ACM Computing Surveys (CSUR) 52.1 (2019): 1-43.
+
+**2018**
+- Creswell, Antonia, et al. "Generative adversarial networks: An overview." IEEE Signal Processing Magazine 35.1 (2018): 53-65.
+- Cao, Yang-Jie, et al. "Recent advances of generative adversarial networks in computer vision." IEEE Access 7 (2018): 14985-15006.
