@@ -26,7 +26,7 @@ Please consider cite our paper if you find this repo is helpful.
 
 
 **2021**
-- Abbas, Amreen, et al. "Tomato plant disease detection using transfer learning with C-GAN synthetic images." Computers and Electronics in Agriculture 187 (2021): 106279. [[Google Scholar]](https://scholar.google.com/scholar?q=tomato+plant+disease+detection+using+transfer+learning+with+c-gan+synthetic+images&hl=en&as_sdt=0&as_vis=1&oi=scholart)  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169921002969) 
+- Abbas, Amreen, et al. "Tomato plant disease detection using transfer learning with C-GAN synthetic images." Computers and Electronics in Agriculture 187 (2021): 106279. [[scholar]](https://scholar.google.com/scholar?q=tomato+plant+disease+detection+using+transfer+learning+with+c-gan+synthetic+images&hl=en&as_sdt=0&as_vis=1&oi=scholart)  [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169921002969) 
 - 
 
 
@@ -51,9 +51,9 @@ Please consider cite our paper if you find this repo is helpful.
 - 
 
 **2021**
-- Pavan Kumar, M. R., and Prabhu Jayagopal. "Generative adversarial networks: a survey on applications and challenges." International Journal of Multimedia Information Retrieval 10.1 (2021): 1-24. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&as_vis=1&q=Generative+adversarial+networks%3A+a+survey+on+applications+and+challenges.&btnG=) [[Paper]](https://link.springer.com/article/10.1007/s13735-020-00196-w) 
-- Gui, Jie, et al. "A review on generative adversarial networks: Algorithms, theory, and applications." IEEE Transactions on Knowledge and Data Engineering (2021). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&as_vis=1&q=A+review+on+generative+adversarial+networks%3A+Algorithms%2C+theory%2C+and+applications&btnG=) [[Paper]](https://link.springer.com/article/10.1007/s13735-020-00196-w) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9625798?casa_token=pVTomSmhKXkAAAAA:6u9iUDfYyuu4If48_8P0Zv930tJFXoDBjDBlYfRuIkiCgOv71WMMOl0XnPTG-6rRXP-VnM33A2w) 
-- Wang, Zhengwei, Qi She, and Tomas E. Ward. "Generative adversarial networks in computer vision: A survey and taxonomy." ACM Computing Surveys (CSUR) 54.2 (2021): 1-38. [[Google Scholar]](https://scholar.google.com/scholar?q=A+review+on+generative+adversarial+networks:+Algorithms,+theory,+and+applications&hl=en&as_sdt=0&as_vis=1&oi=scholart) [[arXiv]](https://arxiv.org/abs/2001.06937) 
+- Pavan Kumar, M. R., and Prabhu Jayagopal. "Generative adversarial networks: a survey on applications and challenges." International Journal of Multimedia Information Retrieval 10.1 (2021): 1-24. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&as_vis=1&q=Generative+adversarial+networks%3A+a+survey+on+applications+and+challenges.&btnG=) [[paper]](https://link.springer.com/article/10.1007/s13735-020-00196-w) 
+- Gui, Jie, et al. "A review on generative adversarial networks: Algorithms, theory, and applications." IEEE Transactions on Knowledge and Data Engineering (2021). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&as_vis=1&q=A+review+on+generative+adversarial+networks%3A+Algorithms%2C+theory%2C+and+applications&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/9625798?casa_token=pVTomSmhKXkAAAAA:6u9iUDfYyuu4If48_8P0Zv930tJFXoDBjDBlYfRuIkiCgOv71WMMOl0XnPTG-6rRXP-VnM33A2w) 
+- Wang, Zhengwei, Qi She, and Tomas E. Ward. "Generative adversarial networks in computer vision: A survey and taxonomy." ACM Computing Surveys (CSUR) 54.2 (2021): 1-38. [[scholar]](https://scholar.google.com/scholar?q=A+review+on+generative+adversarial+networks:+Algorithms,+theory,+and+applications&hl=en&as_sdt=0&as_vis=1&oi=scholart) [[arXiv]](https://arxiv.org/abs/2001.06937) 
 
 **2019**
 - Yi, Xin, Ekta Walia, and Paul Babyn. "Generative adversarial network in medical imaging: A review." Medical image analysis 58 (2019): 101552.
