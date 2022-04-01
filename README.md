@@ -27,6 +27,7 @@ Please consider cite our paper if you find this repo is helpful.
 
 **2021**
 - Abbas, Amreen, et al. "Tomato plant disease detection using transfer learning with C-GAN synthetic images." Computers and Electronics in Agriculture 187 (2021): 106279. [[scholar]](https://scholar.google.com/scholar?q=tomato+plant+disease+detection+using+transfer+learning+with+c-gan+synthetic+images&hl=en&as_sdt=0&as_vis=1&oi=scholart)  [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169921002969) 
+- Hu, G., Wu, H., Zhang, Y., & Wan, M., 2019. A low shot learning method for tea leaf’s disease identification. Computers and Electronics in Agriculture, 163(June). [[scholar]](https://doi.org/10.1016/j.compag.2019.104852)
 - 
 
 
