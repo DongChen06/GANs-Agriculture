@@ -26,7 +26,7 @@ Please consider cite our paper if you find this repo is helpful.
 
 
 **2021**
-- Abbas, Amreen, et al. "Tomato plant disease detection using transfer learning with C-GAN synthetic images." Computers and Electronics in Agriculture 187 (2021): 106279.
+- Abbas, Amreen, et al. "Tomato plant disease detection using transfer learning with C-GAN synthetic images." Computers and Electronics in Agriculture 187 (2021): 106279. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169921002969) 
 - 
 
 
@@ -47,12 +47,13 @@ Please consider cite our paper if you find this repo is helpful.
 
 # GAN Review Papers
 **2022**
-- Cohen, Gilad, and Raja Giryes. "Generative Adversarial Networks." arXiv preprint arXiv:2203.00667 (2022).
+- Cohen, Gilad, and Raja Giryes. "Generative Adversarial Networks." arXiv preprint arXiv:2203.00667 (2022). [[arXiv]](https://arxiv.org/abs/2203.00667) 
+- 
 
 **2021**
-- Pavan Kumar, M. R., and Prabhu Jayagopal. "Generative adversarial networks: a survey on applications and challenges." International Journal of Multimedia Information Retrieval 10.1 (2021): 1-24.
+- Pavan Kumar, M. R., and Prabhu Jayagopal. "Generative adversarial networks: a survey on applications and challenges." International Journal of Multimedia Information Retrieval 10.1 (2021): 1-24. [[Paper]](https://link.springer.com/article/10.1007/s13735-020-00196-w) 
 - Gui, Jie, et al. "A review on generative adversarial networks: Algorithms, theory, and applications." IEEE Transactions on Knowledge and Data Engineering (2021).
-- Wang, Zhengwei, Qi She, and Tomas E. Ward. "Generative adversarial networks in computer vision: A survey and taxonomy." ACM Computing Surveys (CSUR) 54.2 (2021): 1-38.
+- Wang, Zhengwei, Qi She, and Tomas E. Ward. "Generative adversarial networks in computer vision: A survey and taxonomy." ACM Computing Surveys (CSUR) 54.2 (2021): 1-38. [[arXiv]](https://arxiv.org/abs/2001.06937) 
 
 **2019**
 - Yi, Xin, Ekta Walia, and Paul Babyn. "Generative adversarial network in medical imaging: A review." Medical image analysis 58 (2019): 101552.
