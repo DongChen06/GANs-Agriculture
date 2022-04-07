@@ -28,12 +28,15 @@ Please consider cite our paper if you find this repo is helpful.
 **2021**
 - Abbas, Amreen, et al. "Tomato plant disease detection using transfer learning with C-GAN synthetic images." Computers and Electronics in Agriculture 187 (2021): 106279. [[scholar]](https://scholar.google.com/scholar?q=tomato+plant+disease+detection+using+transfer+learning+with+c-gan+synthetic+images&hl=en&as_sdt=0&as_vis=1&oi=scholart)  [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169921002969)
 - Hu, W. J., Xie, T. Y., Li, B. S., Du, Y. X., & Xiong, N. N. "An edge intelligence-based generative data augmentation system for IoT image recognition tasks." Journal of Internet Technology, 22(4), 765–777. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=An+edge+intelligence-based+generative+data+augmentation+system+for+IoT+image+recognition+tasks&btnG=) [[paper]](https://jit.ndhu.edu.tw/article/view/2541)
+- Kim, C., Lee, H., & Jung, H., "Fruit tree disease classification system using generative adversarial networks." International Journal of Electrical and Computer Engineering, 11(3), 2508–2515. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Fruit+tree+disease+classification+system+using+generative+adversarial+networks&btnG=) [[paper]](http://ijece.iaescore.com/index.php/IJECE/article/view/23915)
 
 **2020**
 - Wu, Q., Chen, Y., & Meng, J. "DCGAN-based data augmentation for tomato leaf disease identification." IEEE Access, 8, 98716–98728.[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=DCGAN-based+data+augmentation+for+tomato+leaf+disease+identification&btnG=)  [[paper]](https://ieeexplore.ieee.org/abstract/document/9099295)
 
 - Sun, R., Zhang, M., Yang, K., & Liu, J., "Data enhancement for plant disease classification using generated lesions." Applied Sciences (Switzerland), 10(2).[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Data+enhancement+for+plant+disease+classification+using+generated+lesions&btnG=) [[paper]](https://www.mdpi.com/2076-3417/10/2/466)
 - Zeng, Q., Ma, X., Cheng, B., Zhou, E., & Pang, W. "GANS-based data augmentation for citrus disease severity detection using deep learning." IEEE Access, 8, 172882–172891. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=GANS-based+data+augmentation+for+citrus+disease+severity+detection+using+deep+learning&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/9200543)
+- Yuwana, R. S., Fauziah, F., Heryana, A., Krisnandi, D., Kusumo, R. B. S., & Pardede, H. F., "Data Augmentation using Adversarial Networks for Tea Diseases Detection." Jurnal Elektronika Dan Telekomunikasi, 20(1), 29. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Data+Augmentation+using+Adversarial+Networks+for+Tea+Diseases+Detection&btnG=) [[paper]](https://www.jurnalet.com/jet/article/view/365)
+- 
 - 
 
 **2019**
