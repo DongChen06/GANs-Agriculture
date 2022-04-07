@@ -113,7 +113,29 @@ Please consider cite our paper if you find this repo is helpful.
 
 ## Plant Phenotyping
 
+**2021**
+- Drees, L., Junker-Frohn, L. V., Kierdorf, J., & Roscher, R. "Temporal prediction and evaluation of Brassica growth in the field using conditional generative adversarial networks." Computers and Electronics in Agriculture, 190(August), 106415. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Temporal+prediction+and+evaluation+of+Brassica+growth+in+the+field+using+conditional+generative+adversarial+networks.&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169921004324) 
+- Zane K. J. H., Andrew P. F. "Domain Adaptation of Synthetic Images for Wheat Head Detection." Plants, 10(12), 2633. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Domain+Adaptation+of+Synthetic+Images+for+Wheat+Head+Detection&btnG=) [[paper]](https://www.mdpi.com/2223-7747/10/12/2633)
+
+**2020**
+- Zhu, F., He, M., & Zheng, Z., "Data augmentation using improved cDCGAN for plant vigor rating." Computers and Electronics in Agriculture, 175(51), 105603. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Data+augmentation+using+improved+cDCGAN+for+plant+vigor+rating.&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S016816992030106X)
+- Shete, S., Srinivasan, S., & Gonsalves, T. A. "TasselGAN: An Application of the Generative Adversarial Model for Creating Field-Based Maize Tassel Data." Plant Phenomics, 2020, 8309605. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=TasselGAN%3A+An+Application+of+the+Generative+Adversarial+Model+for+Creating+Field-Based+Maize+Tassel+Data.&btnG=) [[paper]](https://spj.sciencemag.org/journals/plantphenomics/2020/8309605/)
+
+**2019**
+- Madsen, Simon L., Dyrmann, M., Jørgensen, R. N., & Karstoft, H. "Generating artificial images of plant seedlings using generative adversarial networks." Biosystems Engineering, 187, 147–159. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Generating+artificial+images+of+plant+seedlings+using+generative+adversarial+networks&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S1537511019308190)
+- Madsen, Simon Leminen, Mortensen, A. K., Jørgensen, R. N., & Karstoft, H. "Disentangling information in artificial images of plant seedlings using semi-supervised GAN." Remote Sensing, 11(22), 1–16. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Disentangling+information+in+artificial+images+of+plant+seedlings+using+semi-supervised+GAN.&btnG=) [[paper]](https://www.mdpi.com/2072-4292/11/22/2671)
+
+**2018**
+- Zhu, Y., Aoun, M., Krijn, M., & Vanschoren, J., 2018. Data Augmentation using Conditional Generative Adversarial Networks for Leaf Counting in Arabidopsis Plants. Bmvc, 121–125. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Data+Augmentation+using+Conditional+Generative+Adversarial+Networks+for+Leaf+Counting+in+Arabidopsis+Plants.+&btnG=) [[paper]](https://www.semanticscholar.org/paper/Data-Augmentation-using-Conditional-Generative-for-Zhu-Aoun/0636eb841bf3480309a346587010f43f2a87633e)
+
+**2017**
+- Giuffrida, M. V., Scharr, H., & Tsaftaris, S. A., 2017. ARIGAN: Synthetic arabidopsis plants using generative adversarial network. Proceedings - 2017 IEEE International Conference on Computer Vision Workshops, ICCVW 2017, 2018-Janua(i), 2064–2071.
+
 ## Postharvest Quality Assessment
+
+**2022**
+
+-
 
 
 # GAN Achitectures
