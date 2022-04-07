@@ -144,15 +144,53 @@ Please consider cite our paper if you find this repo is helpful.
 
 **2019**
 - Chou et al. "Deep-Learning Based Defective Bean Inspection with GAN Structured Automated Labeled Data Augmentation in Coffee Industry." Appl. Sci. 2019, 9(19), 4166. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=first_pagesettings+Open+AccessArticle+Deep-Learning-Based+Defective+Bean+Inspection+with+GAN-Structured+Automated+Labeled+Data+Augmentation+in+Coffee+Industry&btnG=) [[paper]](https://www.mdpi.com/2076-3417/9/19/4166/htm)
--
+
 
 
 # GAN Achitectures
 
+**2021**
+- Zhang et al. "StyleSwin: Transformer-based GAN for High-resolution Image Generation." 	arXiv:2112.10762. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=StyleSwin%3A+Transformer-based+GAN+for+High-resolution+Image+Generation&btnG=) [[paper]](https://arxiv.org/abs/2112.10762) 
+- Jiang et al. "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up." Advances in Neural Information Processing Systems 34 (NeurIPS 2021). [[scholar]](https://scholar.google.com/scholar?q=TransGAN:+Two+Pure+Transformers+Can+Make+One+Strong+GAN,+and+That+Can+Scale+Up&hl=en&as_sdt=0,25) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/7c220a2091c26a7f5e9f1cfb099511e3-Abstract.html)
+
+**2020**
+- Karras et al. "Analyzing and Improving the Image Quality of StyleGAN." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020, pp. 8110-8119. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Analyzing+and+Improving+the+Image+Quality+of+StyleGAN&btnG=) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)
+
+**2019**
+- Gong et al. "AutoGAN: Neural Architecture Search for Generative Adversarial Networks." Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2019, pp. 3224-3234. [[scholar]](https://scholar.google.com/scholar?q=AutoGAN:+Neural+Architecture+Search+for+Generative+Adversarial+Networks&hl=en&as_sdt=0,25) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Gong_AutoGAN_Neural_Architecture_Search_for_Generative_Adversarial_Networks_ICCV_2019_paper.html)
+- Brock, A., Donahue, J., Simonyan K. "Large Scale GAN Training for High Fidelity Natural Image Synthesis" 	arXiv:1809.11096  [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Large+Scale+GAN+Training+for+High+Fidelity+Natural+Image+Synthesis&btnG=) [[paper]](https://arxiv.org/abs/1809.11096)
+-Zhang et al. "Self-Attention Generative Adversarial Networks." Proceedings of the 36th International Conference on Machine Learning, PMLR 97:7354-7363, 2019. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Self-Attention+Generative+Adversarial+Networks&btnG=) [[paper]](https://proceedings.mlr.press/v97/zhang19d.html)
+Kerras et al. "A Style-Based Generator Architecture for Generative Adversarial Networks." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 4401-4410. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=A+Style-Based+Generator+Architecture+for+Generative+Adversarial+Networks&btnG=) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)
+
+**2018**
+- Wang et al. "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks." Proceedings of the European Conference on Computer Vision (ECCV) Workshops, 2018, pp. 0-0 [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=ESRGAN%3A+Enhanced+Super-Resolution+Generative+Adversarial+Networks&btnG=) [[paper]](https://openaccess.thecvf.com/content_eccv_2018_workshops/w25/html/Wang_ESRGAN_Enhanced_Super-Resolution_Generative_Adversarial_Networks_ECCVW_2018_paper.html)
+- Karras et al. "Progressive Growing of GANs for Improved Quality, Stability, and Variation." 	arXiv:1710.10196. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Progressive+Growing+of+GANs+for+Improved+Quality%2C+Stability%2C+and+Variation&btnG=) [[paper]](https://arxiv.org/abs/1710.10196)
+- 
+
+**2017**
+- Zhu, J. Y., Park, T., Isola, P., & Efros, A. A., 2017. Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks. Proceedings of the IEEE International Conference on Computer Vision, 2017-Octob, 2242–2251. 
+- Ishola et al. "Image-To-Image Translation With Conditional Adversarial Networks."  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 1125-1134. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Image-to-Image+Translation+with+Conditional+Adversarial+Networks&btnG=) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)
+- Ledig et al. "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 4681-4690. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Photo-Realistic+Single+Image+Super-Resolution+Using+a+Generative+Adversarial+Network&btnG=) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html)
+- Arjovsky et al. "Wasserstein Generative Adversarial Networks." Proceedings of the 34th International Conference on Machine Learning, PMLR 70:214-223. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Wasserstein+GAN+2017&btnG=) [[paper]](https://proceedings.mlr.press/v70/arjovsky17a.html) 
+- Gulrajani et al. "Improved Training of Wasserstein GANs." Advances in Neural Information Processing Systems 30 (NIPS 2017). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=WGAN-GP&btnG=) [[paper]](https://proceedings.neurips.cc/paper/2017/hash/892c3b1c6dccd52936e27cbd0ff683d6-Abstract.html)
+
+**2016**
+
+- Chen et al. "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets."  Advances in Neural Information Processing Systems 29 (NIPS 2016) [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=InfoGAN%3A+Interpretable+Representation+Learning+by+Information+Maximizing+Generative+Adversarial+Nets&btnG=) [[paper]](https://proceedings.neurips.cc/paper/2016/hash/7c9d0b1f96aebd7b5eca8c3edaa19ebb-Abstract.html)
+
+- Liu, M. Y., & Tuzel, O., 2016. Coupled generative adversarial networks. Advances in Neural Information Processing Systems, Nips, 469–477. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Coupled+generative+adversarial+networks&btnG=) [[paper]](https://proceedings.neurips.cc/paper/2016/hash/502e4a16930e414107ee22b6198c578f-Abstract.html)
+
+**2014**
+- Mirza, M., & Osindero, S. "Conditional Generative Adversarial Nets." 1–7. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Conditional+Generative+Adversarial+Nets&btnG=) [[paper]](https://arxiv.org/abs/1411.1784)
+- Goodfellow et al. "Generative Adversarial Nets." Advances in Neural Information Processing Systems 27 (NIPS 2014). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=generative+adversarial+networks+goodfellow&oq=Generative+Adversarial+Networks) [[paper]](https://proceedings.neurips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
+
+**2015**
+Radford, A.,  Metz, L.,  Chintala S. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. arXiv:1511.06434v2. pp. 1-16. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Unsupervised+Representation+Learning+with+Deep+Convolutional+Generative+Adversarial+Networks&btnG=) [[paper]](https://arxiv.org/abs/1511.06434)  
+
 # GAN Review Papers
 **2022**
 - Cohen, Gilad, and Raja Giryes. "Generative Adversarial Networks." arXiv preprint arXiv:2203.00667 (2022). [[arXiv]](https://arxiv.org/abs/2203.00667) 
-- 
+
 
 **2021**
 - Pavan Kumar, M. R., and Prabhu Jayagopal. "Generative adversarial networks: a survey on applications and challenges." International Journal of Multimedia Information Retrieval 10.1 (2021): 1-24. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&as_vis=1&q=Generative+adversarial+networks%3A+a+survey+on+applications+and+challenges.&btnG=) [[paper]](https://link.springer.com/article/10.1007/s13735-020-00196-w) 
