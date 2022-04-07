@@ -25,7 +25,6 @@ Please consider cite our paper if you find this repo is helpful.
 ### Plant Health
 
 **2022**
-
  - Xu, M., Yoon, S., Fuentes, A., Yang, J., & Park, D. S. "Style-Consistent Image Translation: A Novel Data Augmentation Paradigm to Improve Plant Disease Recognition." Frontiers in Plant Science, 12(February), 1–16. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Style-Consistent+Image+Translation%3A+A+Novel+Data+Augmentation+Paradigm+to+Improve+Plant+Disease+Recognition&btnG=) [[paper]](https://www.frontiersin.org/articles/10.3389/fpls.2021.773142/full)
 
 **2021**
@@ -39,9 +38,6 @@ Please consider cite our paper if you find this repo is helpful.
 - Zhao, Y., Chen, Z., Gao, X., Song, W., Xiong, Q., Hu, J., & Zhang, Z. "Plant Disease Detection using Generated Leaves Based on DoubleGAN." IEEE/ACM Transactions on Computational Biology and Bioinformatics, 5963(c), 1–10. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Plant+Disease+Detection+using+Generated+Leaves+Based+on+DoubleGAN&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/9345997?casa_token=lmemnHLWZ0MAAAAA:ypbV6WIy5pOnt15iZ5TJDW4ip2zsGTXBXY2wp24vjwk0rmLwd3QCWzDlWETnrnC6-9s9RAbenA)
 - Deng, H., Luo, D., Chang, Z., Li, H., & Yang, X. "Rahc_gan: A data augmentation method for tomato leaf disease recognition." Symmetry, 13(9). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Rahc_gan%3A+A+data+augmentation+method+for+tomato+leaf+disease+recognition.&btnG=) [[paper]](https://www.mdpi.com/2073-8994/13/9/1597)
 - Nerkar, B., & Talbar, S. "Cross-dataset learning for performance improvement of leaf disease detection using reinforced generative adversarial networks." International Journal of Information Technology (Singapore), 13(6), 2305–2312. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Cross-dataset+learning+for+performance+improvement+of+leaf+disease+detection+using+reinforced+generative+adversarial+networks&btnG=) [[paper]](https://link.springer.com/article/10.1007/s41870-021-00772-1)
-- 
-- 
-- 
 
 **2020**
 - Wu, Q., Chen, Y., & Meng, J. "DCGAN-based data augmentation for tomato leaf disease identification." IEEE Access, 8, 98716–98728.[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=DCGAN-based+data+augmentation+for+tomato+leaf+disease+identification&btnG=)  [[paper]](https://ieeexplore.ieee.org/abstract/document/9099295)
@@ -55,11 +51,6 @@ Please consider cite our paper if you find this repo is helpful.
 - Dai, Q., Cheng, X., Qiao, Y., & Zhang, Y. "Agricultural pest super-resolution and identification with attention enhanced residual and dense fusion generative and adversarial network." IEEE Access, 8, 81943–81959. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Agricultural+pest+super-resolution+and+identification+with+attention+enhanced+residual+and+dense+fusion+generative+and+adversarial+network.&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/9082695) 
 - Dai, Q., Cheng, X., Qiao, Y., & Zhang, Y.  "Crop leaf disease image super-resolution and identification with dual attention and topology fusion generative adversarial network." IEEE Access, 8, 55724–55735. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Crop+leaf+disease+image+super-resolution+and+identification+with+dual+attention+and+topology+fusion+generative+adversarial+network.&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/9042295)
 - Bi, L., & Hu, G. "Improving Image-Based Plant Disease Classification With Generative Adversarial Network Under Limited Training Set." Frontiers in Plant Science, 11(December), 1–12. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Improving+Image-Based+Plant+Disease+Classification+With+Generative+Adversarial+Network+Under+Limited+Training+Set&btnG=) [[paper]](https://www.frontiersin.org/articles/10.3389/fpls.2020.583438/full)
-- 
-    
-
--  
-- 
 
 **2019**
 - Hu, G., Wu, H., Zhang, Y., & Wan, M., 2019. A low shot learning method for tea leaf’s disease identification. Computers and Electronics in Agriculture, 163(June). [[scholar]](https://doi.org/10.1016/j.compag.2019.104852)
@@ -68,17 +59,12 @@ Please consider cite our paper if you find this repo is helpful.
 - Nazki, H., Lee, J., Yoon, S., & Park, D. S. "Image-to-Image Translation with GAN for Synthetic Data Augmentation in Plant Disease Datasets." Korean Institute of Smart Media, 8(2), 46–57. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Image-to-Image+Translation+with+GAN+for+Synthetic+Data+Augmentation+in+Plant+Disease+Datasets&btnG=) [[paper]](https://www.koreascience.or.kr/article/JAKO201918961949570.page)
 - Tian, Y., Yang, G., Wang, Z., Li, E., & Liang, Z. "Detection of apple lesions in orchards based on deep learning methods of cyclegan and YoloV3-dense." Journal of Sensors, 2019. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Detection+of+apple+lesions+in+orchards+based+on+deep+learning+methods+of+cyclegan+and+YoloV3-dense&btnG=) [[paper]](https://www.hindawi.com/journals/js/2019/7630926/)
 - Arsenovic, M., Karanovic, M., Sladojevic, S., Anderla, A., & Stefanovic, D. "Solving current limitations of deep learning based approaches for plant disease detection." Symmetry, 11(7). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Solving+current+limitations+of+deep+learning+based+approaches+for+plant+disease+detection.&btnG=) [[paper]](https://www.mdpi.com/2073-8994/11/7/939)
-- Lu, C. Y., Arcega Rustia, D. J., & Lin, T. Te. "Generative Adversarial Network Based Image Augmentation for Insect Pest Classification Enhancement." IFAC-PapersOnLine, 52(30), 1–5. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Generative+Adversarial+Network+Based+Image+Augmentation+for+Insect+Pest+Classification+Enhancement&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896319323109)
-- 
-- 
-- 
-
-- 
+- Lu, C. Y., Arcega Rustia, D. J., & Lin, T. Te. "Generative Adversarial Network Based Image Augmentation for Insect Pest Classification Enhancement." IFAC-PapersOnLine, 52(30), 1–5. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Generative+Adversarial+Network+Based+Image+Augmentation+for+Insect+Pest+Classification+Enhancement&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896319323109) 
 
 
 ### Weeds
 
-**2022*
+**2022**
 
 
 ### Fruit Detection
