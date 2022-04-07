@@ -85,18 +85,16 @@ Please consider cite our paper if you find this repo is helpful.
  - Barth, R., Hemming, J., & Van Henten, E. J. "Optimising realism of synthetic images using cycle generative adversarial networks for improved part segmentation." Computers and Electronics in Agriculture, 173(October 2019), 105378. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Optimising+realism+of+synthetic+images+using+cycle+generative+adversarial+networks+for+improved+part+segmentation+&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169919320794)
  - Luo Z., Huiling Y., Zhang Y. "Pine Cone Detection Using Boundary Equilibrium Generative Adversarial Networks and Improved YOLOv3 Model." Sensors 2020, 20(16), 4430. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Pine+Cone+Detection+Using+Boundary+Equilibrium+Generative+Adversarial+Networks+and+Improved+YOLOv3+Model&btnG=) [[paper]](https://www.mdpi.com/1424-8220/20/16/4430)
  - Bellocchio, E.,Costante G., Cascianelli, S., Fravolini,  M. L., Valigi P."Combining Domain Adaptation and Spatial Consistency for Unseen Fruits Counting: A Quasi-Unsupervised Approach." IEEE Robotics and Automation Letters,Volume: 5, Issue: 2, pp. 1079 - 1086. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Combining+Domain+Adaptation+and+Spatial+Consistency+for+Unseen+Fruits+Counting%3A+A+Quasi-Unsupervised+Approach&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/8957569)
- - Olatunji, J. R., Redding, G. P., Rowe, C. L., & East, A. R., 2020. Reconstruction of kiwifruit fruit geometry using a CGAN trained on a synthetic dataset. Computers and Electronics in Agriculture, 177(August), 105699. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Reconstruction+of+kiwifruit+fruit+geometry+using+a+CGAN+trained+on+a+synthetic+dataset&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169920310206)
+ - Olatunji, J. R., Redding, G. P., Rowe, C. L., & East, A. R. "Reconstruction of kiwifruit fruit geometry using a CGAN trained on a synthetic dataset." Computers and Electronics in Agriculture, 177(August), 105699. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Reconstruction+of+kiwifruit+fruit+geometry+using+a+CGAN+trained+on+a+synthetic+dataset&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169920310206)
  
 
 **2018**
-
- - Barth, R., Hemming, J., & Van Henten, E. J. 2018. Improved Part Segmentation Performance by Optimising Realism of Synthetic Images using Cycle Generative Adversarial Networks. arXiv:1803.06301v1  [cs.CV]  16 Mar 2018. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Improved+Part+Segmentation+Performance+by+Optimising+Realism+of+Synthetic+Images+using+Cycle+Generative+Adversarial+Networks.&btnG=) [[paper]](https://arxiv.org/abs/1803.06301)
+ - Barth, R., Hemming, J., & Van Henten, E. J. "Improved Part Segmentation Performance by Optimising Realism of Synthetic Images using Cycle Generative Adversarial Networks." arXiv:1803.06301v1  [cs.CV]  16 Mar 2018. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Improved+Part+Segmentation+Performance+by+Optimising+Realism+of+Synthetic+Images+using+Cycle+Generative+Adversarial+Networks.&btnG=) [[paper]](https://arxiv.org/abs/1803.06301)
  
 
 
 ### Aquaculture
 **2021**
-
 - Zhang, Junjie, Yang, G., Sun, L., Zhou, C., Zhou, X., Li, Q., Bi, M., & Guo, J., 2021. Shrimp egg counting with fully convolutional regression network and generative adversarial network. Aquacultural Engineering, 94(June), 102175. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Shrimp+egg+counting+with+fully+convolutional+regression+network+and+generative+adversarial+network&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0144860921000315) 
 
 **2018**
@@ -134,7 +132,18 @@ Please consider cite our paper if you find this repo is helpful.
 ## Postharvest Quality Assessment
 
 **2022**
+- Bird, J. J., Barnes, C. M., Manso, L. J., Ekárt, A., & Faria, D. R. Fruit quality and defect image classification with conditional GAN data augmentation. Scientia Horticulturae, 293(November 2021). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Fruit+quality+and+defect+image+classification+with+conditional+GAN+data+augmentation&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0304423821007913)
 
+**2021**
+- Wang, C., & Xiao, Z. "Lychee surface defect detection based on deep convolutional neural networks with GAN-based data augmentation." Agronomy, 11(8), 1–17. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Lychee+surface+defect+detection+based+on+deep+convolutional+neural+networks+with+GAN-based+data+augmentation&btnG=) [[paper]](https://www.mdpi.com/2073-4395/11/8/1500)
+- Yang, X., Guo, M., Lyu, Q., & Ma, M.,  "Detection and classification of damaged wheat kernels based on progressive neural architecture search." Biosystems Engineering, 208, 176–185. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Detection+and+classification+of+damaged+wheat+kernels+based+on+progressive+neural+architecture+search&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S1537511021001161)
+
+**2020**
+- Guo Z.,  Zheng H., Xu X., Ju,J., Zheng Z., , You C, Gu Yu "Quality grading of jujubes using composite convolutional neural networks in combination with RGB color space segmentation and deep convolutional generative adversarial networks." Journal of Food Process Engineering. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Quality+grading+of+jujubes+using+composite+convolutional+neural+networks+in+combination+with+RGB+color+space+segmentation+and+deep+convolutional+generative+adversarial+networks&btnG=) [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/jfpe.13620?casa_token=mm-pyNq0LREAAAAA%3AFCqdAOHkX9zj9C3RJB1a9t34fIP-2fxgVFPBJaYkofoTs-bQ4gale2plDdgfeLp5yIKTElv0Cx7hH2g)
+- Marino, S., Beauseroy, P., & Smolarz, A. "Unsupervised adversarial deep domain adaptation method for potato defects classification." Computers and Electronics in Agriculture, 174. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Unsupervised+adversarial+deep+domain+adaptation+method+for+potato+defects+classificati&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169919320903)
+
+**2019**
+- Chou et al. "Deep-Learning Based Defective Bean Inspection with GAN Structured Automated Labeled Data Augmentation in Coffee Industry." Appl. Sci. 2019, 9(19), 4166. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=first_pagesettings+Open+AccessArticle+Deep-Learning-Based+Defective+Bean+Inspection+with+GAN-Structured+Automated+Labeled+Data+Augmentation+in+Coffee+Industry&btnG=) [[paper]](https://www.mdpi.com/2076-3417/9/19/4166/htm)
 -
 
 
