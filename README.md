@@ -86,16 +86,19 @@ Please consider cite our paper if you find this repo is helpful.
  - Luo Z., Huiling Y., Zhang Y. "Pine Cone Detection Using Boundary Equilibrium Generative Adversarial Networks and Improved YOLOv3 Model." Sensors 2020, 20(16), 4430. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Pine+Cone+Detection+Using+Boundary+Equilibrium+Generative+Adversarial+Networks+and+Improved+YOLOv3+Model&btnG=) [[paper]](https://www.mdpi.com/1424-8220/20/16/4430)
  - Bellocchio, E.,Costante G., Cascianelli, S., Fravolini,  M. L., Valigi P."Combining Domain Adaptation and Spatial Consistency for Unseen Fruits Counting: A Quasi-Unsupervised Approach." IEEE Robotics and Automation Letters,Volume: 5, Issue: 2, pp. 1079 - 1086. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Combining+Domain+Adaptation+and+Spatial+Consistency+for+Unseen+Fruits+Counting%3A+A+Quasi-Unsupervised+Approach&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/8957569)
  - Olatunji, J. R., Redding, G. P., Rowe, C. L., & East, A. R., 2020. Reconstruction of kiwifruit fruit geometry using a CGAN trained on a synthetic dataset. Computers and Electronics in Agriculture, 177(August), 105699. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Reconstruction+of+kiwifruit+fruit+geometry+using+a+CGAN+trained+on+a+synthetic+dataset&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169920310206)
- - 
+ 
 
 **2018**
+
  - Barth, R., Hemming, J., & Van Henten, E. J. 2018. Improved Part Segmentation Performance by Optimising Realism of Synthetic Images using Cycle Generative Adversarial Networks. arXiv:1803.06301v1  [cs.CV]  16 Mar 2018. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Improved+Part+Segmentation+Performance+by+Optimising+Realism+of+Synthetic+Images+using+Cycle+Generative+Adversarial+Networks.&btnG=) [[paper]](https://arxiv.org/abs/1803.06301)
  
 
 
 ### Aquaculture
 **2021**
+
 - Zhang, Junjie, Yang, G., Sun, L., Zhou, C., Zhou, X., Li, Q., Bi, M., & Guo, J., 2021. Shrimp egg counting with fully convolutional regression network and generative adversarial network. Aquacultural Engineering, 94(June), 102175. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Shrimp+egg+counting+with+fully+convolutional+regression+network+and+generative+adversarial+network&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0144860921000315) 
+
 **2018**
 - Zhao, Jian, Li, Y., Zhang, F., Zhu, S., Liu, Y., Lu, H., & Ye, Z., 2018. Semi-Supervised Learning-Based Live Fish Identification in Aquaculture Using Modified Deep Convolutional Generative Adversarial Networks. Transactions of the ASABE, 61(2), 699–710. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=+Semi-Supervised+Learning-Based+Live+Fish+Identification+in+Aquaculture+Using+Modified+Deep+Convolutional+Generative+Adversarial+Networks&btnG=) [[paper]](https://elibrary.asabe.org/abstract.asp?aid=48905)
 
@@ -106,7 +109,7 @@ Please consider cite our paper if you find this repo is helpful.
 
 **2020**
 - Li, H., & Tang, J. "Dairy goat image generation based on improved-self-attention generative adversarial." IEEE Access (Volume: 8) pp. 62448 - 62457. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Dairy+goat+image+generation+based+on+improved-self-attention+generative+adversarial&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/9039669)
-- 
+
 
 ## Plant Phenotyping
 
