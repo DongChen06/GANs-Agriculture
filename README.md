@@ -33,7 +33,7 @@ Please consider cite our paper if you find this repo is helpful.
 - Wu, Q., Chen, Y., & Meng, J. "DCGAN-based data augmentation for tomato leaf disease identification." IEEE Access, 8, 98716–98728.[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=DCGAN-based+data+augmentation+for+tomato+leaf+disease+identification&btnG=)  [[paper]](https://ieeexplore.ieee.org/abstract/document/9099295)
 
 - Sun, R., Zhang, M., Yang, K., & Liu, J., "Data enhancement for plant disease classification using generated lesions." Applied Sciences (Switzerland), 10(2).[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Data+enhancement+for+plant+disease+classification+using+generated+lesions&btnG=) [[paper]](https://www.mdpi.com/2076-3417/10/2/466)
-- Zeng, Q., Ma, X., Cheng, B., Zhou, E., & Pang, W. "GANS-based data augmentation for citrus disease severity detection using deep learning." IEEE Access, 8, 172882–172891. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=GANS-based+data+augmentation+for+citrus+disease+severity+detection+using+deep+learning&btnG=) [[paper]] (https://ieeexplore.ieee.org/abstract/document/9200543)
+- Zeng, Q., Ma, X., Cheng, B., Zhou, E., & Pang, W. "GANS-based data augmentation for citrus disease severity detection using deep learning." IEEE Access, 8, 172882–172891. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=GANS-based+data+augmentation+for+citrus+disease+severity+detection+using+deep+learning&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/9200543)
 - 
 
 **2019**
