@@ -65,13 +65,13 @@ Please consider cite our paper if you find this repo is helpful.
 ### Weed Controls
 
 **2021**
- -Fawakherji, M., Potena, C., Pretto, A., Bloisi, D. D., & Nardi, D. "Multi-Spectral Image Synthesis for Crop/Weed Segmentation in Precision Farming." Robotics and Autonomous Systems, 146, 103861. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Multi-Spectral+Image+Synthesis+for+Crop%2FWeed+Segmentation+in+Precision+Farming&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0921889021001469?casa_token=q36tcKscSUsAAAAA:i8tmtC4TLYG1xQ1O2jaPrEuX8DgY2iEP58yylNF5ww42TlfNetxcdNNtGtLqurKxJnSX_RXnxyM)
+ - Fawakherji, M., Potena, C., Pretto, A., Bloisi, D. D., & Nardi, D. "Multi-Spectral Image Synthesis for Crop/Weed Segmentation in Precision Farming." Robotics and Autonomous Systems, 146, 103861. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Multi-Spectral+Image+Synthesis+for+Crop%2FWeed+Segmentation+in+Precision+Farming&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0921889021001469?casa_token=q36tcKscSUsAAAAA:i8tmtC4TLYG1xQ1O2jaPrEuX8DgY2iEP58yylNF5ww42TlfNetxcdNNtGtLqurKxJnSX_RXnxyM)
  -  Espejo-Garcia, B., Mylonas, N., Athanasakos, L., Vali, E., & Fountas, S. "Combining generative adversarial networks and agricultural transfer learning for weeds identification." Biosystems Engineering, 204, 79–89. [scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Combining+generative+adversarial+networks+and+agricultural+transfer+learning+for+weeds+identification.&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S1537511021000155?casa_token=zJTDYIS2_tgAAAAA:jjPxGVdPbbtJl3eC0x1r1yrcBRNixWSVTsgzeMhL6jXjzvsWzLHS2Q0l-Mwalya0W51BH-7wHoM)
  -  Khan, S, Tufail, M, Khan, M. T., Khan, Z. A., Iqbal, J., and Alam, M. “A novel semi-supervised framework for UAV based crop/weed classification.” PLoS One, vol. 16, no. 5 [[scholar]](https://scholar.google.com/scholar?q=A+novel+semi-supervised+framework+for+UAV+based+crop/weed+classification&hl=en&as_sdt=0,25) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251008)
 
 **2019**
 
- -Kerdegari,H., Razaak M., Argyriou V., Remagnino P. "Semi-supervised GAN for Classification of Multispectral Imagery Acquired by UAVs." [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Semi-supervised+GAN+for+Classification+of+Multispectral+Imagery+Acquired+by+UAVs&btnG=) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251008)
+ - Kerdegari,H., Razaak M., Argyriou V., Remagnino P. "Semi-supervised GAN for Classification of Multispectral Imagery Acquired by UAVs." [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Semi-supervised+GAN+for+Classification+of+Multispectral+Imagery+Acquired+by+UAVs&btnG=) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251008)
 
 
 
@@ -79,11 +79,11 @@ Please consider cite our paper if you find this repo is helpful.
 
 **2020**
 
- -Barth, R., Hemming, J., & Van Henten, E. J. "Optimising realism of synthetic images using cycle generative adversarial networks for improved part segmentation." Computers and Electronics in Agriculture, 173(October 2019), 105378. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Optimising+realism+of+synthetic+images+using+cycle+generative+adversarial+networks+for+improved+part+segmentation+&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169919320794)
+ - Barth, R., Hemming, J., & Van Henten, E. J. "Optimising realism of synthetic images using cycle generative adversarial networks for improved part segmentation." Computers and Electronics in Agriculture, 173(October 2019), 105378. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Optimising+realism+of+synthetic+images+using+cycle+generative+adversarial+networks+for+improved+part+segmentation+&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169919320794)
  - Luo Z., Huiling Y., Zhang Y. "Pine Cone Detection Using Boundary Equilibrium Generative Adversarial Networks and Improved YOLOv3 Model." Sensors 2020, 20(16), 4430. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Pine+Cone+Detection+Using+Boundary+Equilibrium+Generative+Adversarial+Networks+and+Improved+YOLOv3+Model&btnG=) [[paper]](https://www.mdpi.com/1424-8220/20/16/4430)
 
 **2018**
- -Barth, R., Hemming, J., & Van Henten, E. J. 2018. Improved Part Segmentation Performance by Optimising Realism of Synthetic Images using Cycle Generative Adversarial Networks. arXiv:1803.06301v1  [cs.CV]  16 Mar 2018. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Improved+Part+Segmentation+Performance+by+Optimising+Realism+of+Synthetic+Images+using+Cycle+Generative+Adversarial+Networks.&btnG=) [[paper]](https://arxiv.org/abs/1803.06301)
+ - Barth, R., Hemming, J., & Van Henten, E. J. 2018. Improved Part Segmentation Performance by Optimising Realism of Synthetic Images using Cycle Generative Adversarial Networks. arXiv:1803.06301v1  [cs.CV]  16 Mar 2018. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Improved+Part+Segmentation+Performance+by+Optimising+Realism+of+Synthetic+Images+using+Cycle+Generative+Adversarial+Networks.&btnG=) [[paper]](https://arxiv.org/abs/1803.06301)
  
 
 
