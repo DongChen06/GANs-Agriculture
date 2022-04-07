@@ -24,12 +24,16 @@ Please consider cite our paper if you find this repo is helpful.
 ## Precision Agriculture
 ### Plant Health
 
+
+**2021**
+- Abbas, Amreen, et al. "Tomato plant disease detection using transfer learning with C-GAN synthetic images." Computers and Electronics in Agriculture 187 (2021): 106279. [[scholar]](https://scholar.google.com/scholar?q=tomato+plant+disease+detection+using+transfer+learning+with+c-gan+synthetic+images&hl=en&as_sdt=0&as_vis=1&oi=scholart)  [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169921002969)
+
+**2020**
+-Wu, Q., Chen, Y., & Meng, J. "DCGAN-based data augmentation for tomato leaf disease identification." IEEE Access, 8, 98716–98728.[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=DCGAN-based+data+augmentation+for+tomato+leaf+disease+identification&btnG=)  [[paper]](https://ieeexplore.ieee.org/abstract/document/9099295) 
+
 **2019**
 - Hu, G., Wu, H., Zhang, Y., & Wan, M., 2019. A low shot learning method for tea leaf’s disease identification. Computers and Electronics in Agriculture, 163(June). [[scholar]](https://doi.org/10.1016/j.compag.2019.104852)
 - Douarre, C., Crispim-Junior, C. F., Gelibert, A., Tougne, L., & Rousseau, D., 2019. Novel data augmentation strategies to boost supervised segmentation of plant disease. Computers and Electronics in Agriculture, 165(August), 104967.[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Novel+data+augmentation+strategies+to+boost+supervised+segmentation+of+plant+disease&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169919304879?casa_token=vbGZFiKsXlMAAAAA:Nf6D7d4Y9hOng_oSmFnKAnwhnzCrc7aKo9KjHkyP7ie58_IRb6QCx-tSFvedkWUinoNRncDPg4w)
-
-**2021**
-- Abbas, Amreen, et al. "Tomato plant disease detection using transfer learning with C-GAN synthetic images." Computers and Electronics in Agriculture 187 (2021): 106279. [[scholar]](https://scholar.google.com/scholar?q=tomato+plant+disease+detection+using+transfer+learning+with+c-gan+synthetic+images&hl=en&as_sdt=0&as_vis=1&oi=scholart)  [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169921002969) 
 
 - 
 
