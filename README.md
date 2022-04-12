@@ -4,6 +4,16 @@ In agricultural image analysis, optimal model performance is required for better
 
 ## Citation
 Please consider cite our paper if you find this repo is helpful.
+```
+@misc{olaniyi2022generative,
+      title={Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review}, 
+      author={Ebenezer Olaniyi and Dong Chen and Yuzhen Lu and Yanbo Huang},
+      year={2022},
+      eprint={2204.04707},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
 ## Contents
