@@ -29,6 +29,7 @@ Please consider cite our paper if you find this repo is helpful.
   * [Postharvest Quality Assessment](#postharvest-quality-assessment)
 * [GAN Achitectures](#gan-achitectures)
 * [GAN Review Papers](#gan-review-papers)
+* [GAN Implementations](#gan-implementations)
 
 # Applications of GANs in Agriculture
 ## Precision Agriculture
@@ -216,3 +217,7 @@ Radford, A.,  Metz, L.,  Chintala S. Unsupervised Representation Learning with D
 **2018**
 - Creswell, Antonia, et al. "Generative adversarial networks: An overview." IEEE Signal Processing Magazine 35.1 (2018): 53-65. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&as_vis=1&q=Generative+adversarial+networks%3A+An+overview+A+Creswell&btnG=) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8253599&casa_token=xRIFFXWsCCMAAAAA:OtCGlWJGo7KEp6j2ubuvod3qBW9Raaw3Rp_qhl7MM6umT4gruBC2cj8ut3DiIjK06_55NWlGfSM&tag=1) [[arXiv]](https://arxiv.org/abs/1710.07035)
 - Cao, Yang-Jie, et al. "Recent advances of generative adversarial networks in computer vision." IEEE Access 7 (2018): 14985-15006. [[scholar]](https://scholar.google.com/scholar?q=Recent+advances+of+generative+adversarial+networks+in+computer+vision&hl=en&as_sdt=0&as_vis=1&oi=scholart) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8576508)
+
+# GAN Implementations
+- Pytorch StudioGAN: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
+
