@@ -36,6 +36,8 @@ Please consider cite our paper if you find this repo is helpful.
 ### Plant Health
 
 **2022**
+- Chen, Weirong, et al. "MS-DNet: A mobile neural network for plant disease identification." Computers and Electronics in Agriculture 199 (2022): 107175.
+[[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=MS-DNet%3A+A+mobile+neural+network+for+plant+disease+identification&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004926)
  - Xu, M., Yoon, S., Fuentes, A., Yang, J., & Park, D. S. "Style-Consistent Image Translation: A Novel Data Augmentation Paradigm to Improve Plant Disease Recognition." Frontiers in Plant Science, 12(February), 1–16. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Style-Consistent+Image+Translation%3A+A+Novel+Data+Augmentation+Paradigm+to+Improve+Plant+Disease+Recognition&btnG=) [[paper]](https://www.frontiersin.org/articles/10.3389/fpls.2021.773142/full)
 
 **2021**
