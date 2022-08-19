@@ -162,6 +162,9 @@ Please consider cite our paper if you find this repo is helpful.
 
 # GAN Achitectures
 
+**2022**
+- Xu, Mingle, et al. "A Comprehensive Survey of Image Augmentation Techniques for Deep Learning." arXiv preprint arXiv:2205.01491 (2022).
+
 **2021**
 - Zhang et al. "StyleSwin: Transformer-based GAN for High-resolution Image Generation." 	arXiv:2112.10762. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=StyleSwin%3A+Transformer-based+GAN+for+High-resolution+Image+Generation&btnG=) [[paper]](https://arxiv.org/abs/2112.10762) 
 - Jiang et al. "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up." Advances in Neural Information Processing Systems 34 (NeurIPS 2021). [[scholar]](https://scholar.google.com/scholar?q=TransGAN:+Two+Pure+Transformers+Can+Make+One+Strong+GAN,+and+That+Can+Scale+Up&hl=en&as_sdt=0,25) [[paper]](https://proceedings.neurips.cc/paper/2021/hash/7c220a2091c26a7f5e9f1cfb099511e3-Abstract.html)
