@@ -5,13 +5,14 @@ In agricultural image analysis, optimal model performance is required for better
 ## Citation
 Please consider cite our paper if you find this repo is helpful.
 ```
-@misc{olaniyi2022generative,
-      title={Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review}, 
-      author={Ebenezer Olaniyi and Dong Chen and Yuzhen Lu and Yanbo Huang},
-      year={2022},
-      eprint={2204.04707},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{lu2022generative,
+  title={Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review},
+  author={Lu, Yuzhen and Chen, Dong and Olaniyi, Ebenezer and Huang, Yanbo},
+  journal={Computers and Electronics in Agriculture},
+  volume={200},
+  pages={107208},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
 
@@ -76,7 +77,7 @@ Please consider cite our paper if you find this repo is helpful.
 - Lu, C. Y., Arcega Rustia, D. J., & Lin, T. Te. "Generative Adversarial Network Based Image Augmentation for Insect Pest Classification Enhancement." IFAC-PapersOnLine, 52(30), 1–5. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Generative+Adversarial+Network+Based+Image+Augmentation+for+Insect+Pest+Classification+Enhancement&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S2405896319323109) 
 
 
-### Weed Controls
+### Weeds
 
 **2021**
  - Fawakherji, M., Potena, C., Pretto, A., Bloisi, D. D., & Nardi, D. "Multi-Spectral Image Synthesis for Crop/Weed Segmentation in Precision Farming." Robotics and Autonomous Systems, 146, 103861. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Multi-Spectral+Image+Synthesis+for+Crop%2FWeed+Segmentation+in+Precision+Farming&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0921889021001469?casa_token=q36tcKscSUsAAAAA:i8tmtC4TLYG1xQ1O2jaPrEuX8DgY2iEP58yylNF5ww42TlfNetxcdNNtGtLqurKxJnSX_RXnxyM)
@@ -124,6 +125,9 @@ Please consider cite our paper if you find this repo is helpful.
 
 
 ## Plant Phenotyping
+
+**2022**
+- Qi, Chao, et al. "Tea Chrysanthemum Detection by Leveraging Generative Adversarial Networks and Edge Computing." Frontiers in plant science 13 (2022). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Tea+Chrysanthemum+Detection+by+Leveraging+Generative+Adversarial+Networks+and+Edge+Computing&btnG=) [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9021924/) 
 
 **2021**
 - Drees, L., Junker-Frohn, L. V., Kierdorf, J., & Roscher, R. "Temporal prediction and evaluation of Brassica growth in the field using conditional generative adversarial networks." Computers and Electronics in Agriculture, 190(August), 106415. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Temporal+prediction+and+evaluation+of+Brassica+growth+in+the+field+using+conditional+generative+adversarial+networks.&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169921004324) 
