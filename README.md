@@ -17,7 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
-- 
+- Wang, Fengyi, et al. **"Practical cucumber leaf disease recognition using improved Swin Transformer and small sample size."** Computers and Electronics in Agriculture 199 (2022): 107163.
 
 
 
@@ -41,6 +41,7 @@ Please consider cite our paper if you find this repo is helpful.
 ### Plant Health
 
 **2022**
+- Wang, Fengyi, et al. **"Practical cucumber leaf disease recognition using improved Swin Transformer and small sample size."** Computers and Electronics in Agriculture 199 (2022): 107163.
 - Jin, Haibin, et al. "GrapeGAN: Unsupervised image enhancement for improved grape leaf disease recognition." Computers and Electronics in Agriculture 198 (2022): 107055.
 - Chen, Weirong, et al. "MS-DNet: A mobile neural network for plant disease identification." Computers and Electronics in Agriculture 199 (2022): 107175.
 [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=MS-DNet%3A+A+mobile+neural+network+for+plant+disease+identification&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004926)
