@@ -17,6 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Li, Mingxuan, et al. "FWDGAN-based data augmentation for tomato leaf disease identification." Computers and Electronics in Agriculture 194 (2022): 106779.
 - Wang, Fengyi, et al. **"Practical cucumber leaf disease recognition using improved Swin Transformer and small sample size."** Computers and Electronics in Agriculture 199 (2022): 107163.
 
 
@@ -41,6 +42,7 @@ Please consider cite our paper if you find this repo is helpful.
 ### Plant Health
 
 **2022**
+- Li, Mingxuan, et al. "FWDGAN-based data augmentation for tomato leaf disease identification." Computers and Electronics in Agriculture 194 (2022): 106779. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=FWDGAN-based+data+augmentation+for+tomato+leaf+disease+identification&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169922000965?casa_token=UoXy88igrGcAAAAA:lVn45Zq--5_xc-nm0wM5u94J0iLdSfCHr-MmGb3iXOvRZthQ2QWYL_XOVzehz_Mjw8kqqW7DmgA)
 - Wang, Fengyi, et al. **"Practical cucumber leaf disease recognition using improved Swin Transformer and small sample size."** Computers and Electronics in Agriculture 199 (2022): 107163. [[scholar]](https://scholar.google.com/scholar?q=Practical+cucumber+leaf+disease+recognition+using+improved+Swin+Transformer+and+small+sample+size%5C&hl=en&as_sdt=0&as_vis=1&oi=scholart) [[paper]](https://www.sciencedirect.com/science/article/pii/S016816992200480X?casa_token=2LbLkJeirm0AAAAA:-AO_0QP7TlBe0v4WRGDNxDJT9394I46PsoJ1A0A9vb8tq42llOGplFNhACZOtkot4qwIEppQnjA)
 - Jin, Haibin, et al. "GrapeGAN: Unsupervised image enhancement for improved grape leaf disease recognition." Computers and Electronics in Agriculture 198 (2022): 107055. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=GrapeGAN%3A+Unsupervised+image+enhancement+for+improved+grape+leaf+disease+recognition&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0168169922003726?casa_token=_G3TqPWgGicAAAAA:va0ZmSIfMI34Io3_Goxl_naZMp-RWTzwGJw8NU90vsnYmSFbxTtqKdy1IdaOqzehZfjPpC2u1Ho)
 - Chen, Weirong, et al. "MS-DNet: A mobile neural network for plant disease identification." Computers and Electronics in Agriculture 199 (2022): 107175.
