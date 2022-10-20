@@ -17,6 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Ufuah, Donald, et al. "A Data Augmentation Approach Based on Generative Adversarial Networks for Date Fruit Classification." Applied Engineering in Agriculture (2022): 0.
 - Li, Mingxuan, et al. "FWDGAN-based data augmentation for tomato leaf disease identification." Computers and Electronics in Agriculture 194 (2022): 106779.
 - Wang, Fengyi, et al. **"Practical cucumber leaf disease recognition using improved Swin Transformer and small sample size."** Computers and Electronics in Agriculture 199 (2022): 107163.
 
@@ -97,6 +98,9 @@ Please consider cite our paper if you find this repo is helpful.
 
 
 ### Fruit Detection
+**2022**
+- Ufuah, Donald, et al. "A Data Augmentation Approach Based on Generative Adversarial Networks for Date Fruit Classification." Applied Engineering in Agriculture (2022): 0.
+
 **2021**
 - Fei, Z., Olenskyj, A., Bailey, B. N., & Earles, M. Enlisting 3D Crop Models and GANs for More Data Efficient and Generalizable Fruit Detection. 1269–1277. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=.+Enlisting+3D+Crop+Models+and+GANs+for+More+Data+Efficient+and+Generalizable+Fruit+Detection&btnG=) [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/CVPPA/html/Fei_Enlisting_3D_Crop_Models_and_GANs_for_More_Data_Efficient_ICCVW_2021_paper.html) 
 - Kierdorf, J., Weber, I., Kicherer, A., Zabawa, L., Drees, L., & Roscher, R. "Behind the leaves -- Estimation of occluded grapevine berries with conditional generative adversarial networks." [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Behind+the+leaves+--+Estimation+of+occluded+grapevine+berries+with+conditional+generative+adversarial+networks.&btnG=) [[paper]](https://arxiv.org/abs/2105.10325) 
