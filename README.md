@@ -17,6 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Divyanth, L. G., et al. "Image-to-Image Translation-Based Data Augmentation for Improving Crop/Weed Classification Models for Precision Agriculture Applications." Algorithms 15.11 (2022): 401.
 - Ufuah, Donald, et al. "A Data Augmentation Approach Based on Generative Adversarial Networks for Date Fruit Classification." Applied Engineering in Agriculture (2022): 0.
 - Li, Mingxuan, et al. "FWDGAN-based data augmentation for tomato leaf disease identification." Computers and Electronics in Agriculture 194 (2022): 106779.
 - Wang, Fengyi, et al. **"Practical cucumber leaf disease recognition using improved Swin Transformer and small sample size."** Computers and Electronics in Agriculture 199 (2022): 107163.
@@ -85,6 +86,9 @@ Please consider cite our paper if you find this repo is helpful.
 
 
 ### Weeds
+
+**2022**
+- Divyanth, L. G., et al. "Image-to-Image Translation-Based Data Augmentation for Improving Crop/Weed Classification Models for Precision Agriculture Applications." Algorithms 15.11 (2022): 401. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Image-to-Image+Translation-Based+Data+Augmentation+for+Improving+Crop%2FWeed+Classification+Models+for+Precision+Agriculture+Applications&btnG=) [[paper]](https://www.mdpi.com/1999-4893/15/11/401)
 
 **2021**
  - Fawakherji, M., Potena, C., Pretto, A., Bloisi, D. D., & Nardi, D. "Multi-Spectral Image Synthesis for Crop/Weed Segmentation in Precision Farming." Robotics and Autonomous Systems, 146, 103861. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Multi-Spectral+Image+Synthesis+for+Crop%2FWeed+Segmentation+in+Precision+Farming&btnG=) [[paper]](https://www.sciencedirect.com/science/article/pii/S0921889021001469?casa_token=q36tcKscSUsAAAAA:i8tmtC4TLYG1xQ1O2jaPrEuX8DgY2iEP58yylNF5ww42TlfNetxcdNNtGtLqurKxJnSX_RXnxyM)
