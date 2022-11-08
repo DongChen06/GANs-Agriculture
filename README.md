@@ -17,6 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Krosney, A. E. and Sotoodeh, P. and Henry, C. J. and Beck, M. A. and Bidinosti, C. P. "Inside Out: Transforming Images of Lab-Grown Plants for Machine Learning Applications in Agriculture", (2022)
 - Divyanth, L. G., et al. "Image-to-Image Translation-Based Data Augmentation for Improving Crop/Weed Classification Models for Precision Agriculture Applications." Algorithms 15.11 (2022): 401.
 - Ufuah, Donald, et al. "A Data Augmentation Approach Based on Generative Adversarial Networks for Date Fruit Classification." Applied Engineering in Agriculture (2022): 0.
 - Li, Mingxuan, et al. "FWDGAN-based data augmentation for tomato leaf disease identification." Computers and Electronics in Agriculture 194 (2022): 106779.
@@ -141,6 +142,7 @@ Please consider cite our paper if you find this repo is helpful.
 ## Plant Phenotyping
 
 **2022**
+- - Krosney, A. E. and Sotoodeh, P. and Henry, C. J. and Beck, M. A. and Bidinosti, C. P. "Inside Out: Transforming Images of Lab-Grown Plants for Machine Learning Applications in Agriculture", (2022) [[scholar]](https://arxiv.org/abs/2211.02972)
 - Qi, Chao, et al. "Tea Chrysanthemum Detection by Leveraging Generative Adversarial Networks and Edge Computing." Frontiers in plant science 13 (2022). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Tea+Chrysanthemum+Detection+by+Leveraging+Generative+Adversarial+Networks+and+Edge+Computing&btnG=) [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9021924/) 
 
 **2021**
