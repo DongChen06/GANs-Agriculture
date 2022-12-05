@@ -39,6 +39,7 @@ Please consider cite our paper if you find this repo is helpful.
 * [GAN Achitectures](#gan-achitectures)
 * [GAN Review Papers](#gan-review-papers)
 * [GAN Implementations](#gan-implementations)
+* [Applications of Diffusion Models in Agriculture](#applications-of-diffusion-models-in-agriculture)
 
 # Applications of GANs in Agriculture
 ## Precision Agriculture
@@ -247,3 +248,6 @@ Radford, A.,  Metz, L.,  Chintala S. Unsupervised Representation Learning with D
 # GAN Implementations
 - Pytorch StudioGAN: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
 
+
+# Applications of Diffusion Models in Agriculture
+- Chen, Dong, et al. "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach." arXiv preprint arXiv:2210.09509 (2022). [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+Data+Augmentation+for+Weed+Recognition+Enhancement%3A+A+Diffusion+Probabilistic+Model+and+Transfer+Learning+Based+Approach&btnG=) [[paper]](https://arxiv.org/abs/2210.09509)
