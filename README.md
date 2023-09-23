@@ -108,6 +108,9 @@ Please consider cite our paper if you find this repo is helpful.
 
 
 ### Fruit Detection
+**2023**
+- Zhang, Tingting, et al. "Large-scale apple orchard mapping from multi-source data using the semantic segmentation model with image-to-image translation and transfer learning." Computers and Electronics in Agriculture 213 (2023): 108204.
+
 **2022**
 - Ufuah, Donald, et al. "A Data Augmentation Approach Based on Generative Adversarial Networks for Date Fruit Classification." Applied Engineering in Agriculture (2022): 0.
 
