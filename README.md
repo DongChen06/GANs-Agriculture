@@ -17,6 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Li, Tang, Motoaki Asai, Yoichiro Kato, Yuya Fukano, and Wei Guo. "Channel Attention GAN-based Synthetic Weed Generation for Precise Weed Identification." Plant Phenomics (2024).
 - Guerrero-Ibañez, Antonio, and Angelica Reyes-Muñoz. "Monitoring Tomato Leaf Disease through Convolutional Neural Networks." Electronics 12.1 (2023): 229.
 - Krosney, A. E. and Sotoodeh, P. and Henry, C. J. and Beck, M. A. and Bidinosti, C. P. "Inside Out: Transforming Images of Lab-Grown Plants for Machine Learning Applications in Agriculture", (2022)
 - Divyanth, L. G., et al. "Image-to-Image Translation-Based Data Augmentation for Improving Crop/Weed Classification Models for Precision Agriculture Applications." Algorithms 15.11 (2022): 401.
