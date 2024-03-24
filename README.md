@@ -17,14 +17,9 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Sapkota, Ranjan, Dawood Ahmed, and Manoj Karkee. "Creating Image Datasets in Agricultural Environments using DALL. E: Generative AI-Powered Large Language Model.", 2024
+- Sapkota, Ranjan, Dawood Ahmed, and Manoj Karkee. "Synthetic Meets Authentic: Leveraging Text-to-Image Generated Datasets for Apple Detection in Orchard Environments.", 2024
 - Li, Tang, Motoaki Asai, Yoichiro Kato, Yuya Fukano, and Wei Guo. "Channel Attention GAN-based Synthetic Weed Generation for Precise Weed Identification." Plant Phenomics (2024).
-- Guerrero-Ibañez, Antonio, and Angelica Reyes-Muñoz. "Monitoring Tomato Leaf Disease through Convolutional Neural Networks." Electronics 12.1 (2023): 229.
-- Krosney, A. E. and Sotoodeh, P. and Henry, C. J. and Beck, M. A. and Bidinosti, C. P. "Inside Out: Transforming Images of Lab-Grown Plants for Machine Learning Applications in Agriculture", (2022)
-- Divyanth, L. G., et al. "Image-to-Image Translation-Based Data Augmentation for Improving Crop/Weed Classification Models for Precision Agriculture Applications." Algorithms 15.11 (2022): 401.
-- Ufuah, Donald, et al. "A Data Augmentation Approach Based on Generative Adversarial Networks for Date Fruit Classification." Applied Engineering in Agriculture (2022): 0.
-- Li, Mingxuan, et al. "FWDGAN-based data augmentation for tomato leaf disease identification." Computers and Electronics in Agriculture 194 (2022): 106779.
-- Wang, Fengyi, et al. **"Practical cucumber leaf disease recognition using improved Swin Transformer and small sample size."** Computers and Electronics in Agriculture 199 (2022): 107163.
-
 
 
 ## Contents
