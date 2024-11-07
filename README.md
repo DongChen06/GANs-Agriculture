@@ -17,6 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Modak, Sourav, and Anthony Stein. "Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems." arXiv preprint arXiv:2411.00548 (2024).
 - Sapkota, Ranjan, Dawood Ahmed, and Manoj Karkee. "Creating Image Datasets in Agricultural Environments using DALL. E: Generative AI-Powered Large Language Model.", 2024
 - Sapkota, Ranjan, Dawood Ahmed, and Manoj Karkee. "Synthetic Meets Authentic: Leveraging Text-to-Image Generated Datasets for Apple Detection in Orchard Environments.", 2024
 - Li, Tang, Motoaki Asai, Yoichiro Kato, Yuya Fukano, and Wei Guo. "Channel Attention GAN-based Synthetic Weed Generation for Precise Weed Identification." Plant Phenomics (2024).
