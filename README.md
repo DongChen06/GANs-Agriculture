@@ -17,6 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Zhang, Shuohua, Lei Liu, Guorun Li, Yuefeng Du, Xiuheng Wu, Zhenghe Song, and Xiaoyu Li. "Diffusion model-based image generative method for quality monitoring of direct grain harvesting." Computers and Electronics in Agriculture 233 (2025): 110130.
 - Gupta, Sachin, Ashish Kumar Tripathi, and Nkenyereye Lewis. "Pre-trained noise based unsupervised GAN for fruit disease classification in imbalanced datasets." Pattern Analysis and Applications 28, no. 2 (2025): 39.
 - Gupta, Sachin, Ashish Kumar Tripathi, and Nkenyereye Lewis. "Pre-trained noise based unsupervised GAN for fruit disease classification in imbalanced datasets." Pattern Analysis and Applications 28, no. 2 (2025): 39.
 - Modak, Sourav, and Anthony Stein. "Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems." arXiv preprint arXiv:2411.00548 (2024).
