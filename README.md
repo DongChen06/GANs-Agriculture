@@ -17,6 +17,7 @@ Please consider cite our paper if you find this repo is helpful.
 ```
 
 ## Fresh Papers
+- Du, Mengze, Fei Wang, Yu Wang, Kun Li, Wenhui Hou, Lu Liu, Yong He, and Yuwei Wang. "Improving long-tailed pest classification using diffusion model-based data augmentation." Computers and Electronics in Agriculture 234 (2025): 110244.
 - Zhang, Shuohua, Lei Liu, Guorun Li, Yuefeng Du, Xiuheng Wu, Zhenghe Song, and Xiaoyu Li. "Diffusion model-based image generative method for quality monitoring of direct grain harvesting." Computers and Electronics in Agriculture 233 (2025): 110130.
 - Gupta, Sachin, Ashish Kumar Tripathi, and Nkenyereye Lewis. "Pre-trained noise based unsupervised GAN for fruit disease classification in imbalanced datasets." Pattern Analysis and Applications 28, no. 2 (2025): 39.
 - Gupta, Sachin, Ashish Kumar Tripathi, and Nkenyereye Lewis. "Pre-trained noise based unsupervised GAN for fruit disease classification in imbalanced datasets." Pattern Analysis and Applications 28, no. 2 (2025): 39.
